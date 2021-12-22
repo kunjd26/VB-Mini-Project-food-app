@@ -1,0 +1,80 @@
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.frmMain.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Form2.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Form3.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Form4.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Form5.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Form6.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Form7.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Form1.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project.Resources.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project(food_app).vbproj.GenerateResource.cache
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project(food_app).vbproj.CoreCompileInputs.cache
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project(food_app).vbproj.AssemblyReference.cache
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\bin\Debug\VB_mini_project(food_app).exe.config
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\bin\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\bin\Debug\VB_mini_project(food_app).pdb
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\bin\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project(food_app).vbproj.CopyComplete
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\Modern Flat UI - Food Application\obj\Debug\VB_mini_project(food_app).pdb
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).exe.config
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).pdb
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.AssemblyReference.cache
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.frmMain.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form2.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form3.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form4.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form5.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form6.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form7.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form1.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Resources.resources
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.GenerateResource.cache
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.CoreCompileInputs.cache
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.CopyComplete
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\Project\perfect\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).pdb
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).exe.config
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).pdb
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.AssemblyReference.cache
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.frmMain.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form2.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form3.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form4.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form5.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form6.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form7.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form1.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Resources.resources
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.GenerateResource.cache
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.CoreCompileInputs.cache
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.CopyComplete
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\New folder\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).pdb
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).exe.config
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).pdb
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\bin\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.AssemblyReference.cache
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.frmMain.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form2.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form3.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form4.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form5.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form6.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form7.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Form1.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project.Resources.resources
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.GenerateResource.cache
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.CoreCompileInputs.cache
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).vbproj.CopyComplete
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).exe
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).xml
+C:\Users\Ayushi\Desktop\Project\VB_mini_project(food_app)\VB_Project(Food_app)\VB_mini_project(food_app)\obj\Debug\VB_mini_project(food_app).pdb
